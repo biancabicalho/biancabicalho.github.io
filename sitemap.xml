@@ -1,27 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.biancabicalho.com.br/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.biancabicalho.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.biancabicalho.com.br/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.biancabicalho.com.br/"/>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://www.biancabicalho.com.br/bianca-bicalho-acompanhante-jardim-da-penha-com-local.webp</image:loc><image:title>Bianca Bicalho, acompanhante com local no Jardim da Penha, Vitória ES</image:title></image:image>
+    <image:image><image:loc>https://www.biancabicalho.com.br/acompanhante-de-luxo-sao-paulo-bianca-bicalho.webp</image:loc><image:title>Bianca Bicalho, acompanhante de luxo em São Paulo</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.biancabicalho.com.br/en/</loc>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://www.biancabicalho.com.br/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.biancabicalho.com.br/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.biancabicalho.com.br/"/>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://www.biancabicalho.com.br/acompanhante-de-luxo-sao-paulo-bianca-bicalho.webp</image:loc><image:title>Bianca Bicalho, luxury escort in Sao Paulo</image:title></image:image>
   </url>
   <url>
     <loc>https://www.biancabicalho.com.br/reviews.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.biancabicalho.com.br/diario.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.biancabicalho.com.br/verificacao.html</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
